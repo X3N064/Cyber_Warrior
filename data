@@ -1,0 +1,11 @@
+SELECT * FROM Users;
+1|DogukanUrker|dogukanmetedkm@gmail.com|$5$rounds=535000$sFdRQrE66b3xJca/$zzRE5AEyWGCD5WXzjT/8Yd8qAByCaCLwLxHi/lWmMd8|https://api.dicebear.com/5.x/identicon/svg?seed=Felix|admin|41|1
+2.01.23|13:34
+2|DorukP|pınarezer@gmail.com|$5$rounds=535000$lcEDMGHiL7q1KX9W$14G/QyHM.MUwQd3dcyvdn.XmykCJfok5le8BKDVVuDD|https://api.dicebear.com/5.x/identicon/svg?seed=Aneka|user|25|20.01.23|22:5
+3
+3|AsyaUrker|asya@gmail.com|$5$rounds=535000$slWV6PfN20tsvw/G$JDHYWpXcj619dvztQeuJdOilLyKKACRomszNJXMbit/|https://api.dicebear.com/5.x/identicon/svg?seed=ufps1HKoVcrlQO2u-9dG40X6n9rG8
+WzgENLUXACO150|user|0|02.02.23|20:39
+4|testUser|testUser@gmail.com|$5$rounds=535000$7hnI4wfw3KQpQHPg$iGc0GY2/Mrh1N9ogLKECBECyY7G8kHvTOul/hWwPvM8|https://api.dicebear.com/5.x/identicon/svg?seed=1AH56mZ5v7WJ1uF2dQlAsf7LZc
+X8dft6VecELsCskK0|user|4|03.02.23|15:53
+5|x3n064|kitoko148@gmail.com|$5$rounds=535000$4N.aOQCTFXE29ezY$.NoEIrhmujVT2JLdj.ixaGVsqwutb2GfeCvM0k7dBX8|https://api.dicebear.com/5.x/identicon/svg?seed=r5Rqw1hvi4iRhx_vsblAsTr4qrK
+C_bwzuQMWiZgxY5A|user|2|05.06.23|14:48
